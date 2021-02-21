@@ -14,7 +14,6 @@ public class Main {
         String catName = Cat.getName2();
         int catAge = Cat.getAge2();
         for (int i = 0; i < 10; i++) {
-
             System.out.println("Name: " + catName + ", Age: " + catAge + "y.o");
         }
 
